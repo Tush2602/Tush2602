@@ -115,16 +115,16 @@ class TusharJoshi:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tush2602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tush2602&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://raw.githubusercontent.com/Tush2602/Tush2602/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tush2602/Tush2602/main/profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/Tush2602/Tush2602/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tush2602&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tush2602&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
