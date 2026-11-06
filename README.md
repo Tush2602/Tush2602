@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tushar%20Joshi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Agentic%20AI&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tushar%20Joshi&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Agentic%20AI&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
@@ -129,6 +129,18 @@ class TusharJoshi:
 
 ---
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tush2602/Tush2602/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tush2602/Tush2602/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Tush2602/Tush2602/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&animation=twinkling" />
 </p>
