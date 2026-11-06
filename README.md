@@ -1,258 +1,108 @@
-::: {align="center"}
-# Hey, I'm Tushar Joshi 👋
-
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=2F81F7&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Data+Science+Enthusiast;Building+ML+systems+that+solve+real+problems;Exploring+Deep+Learning+%7C+NLP+%7C+Recommenders;Electrical+Engineering+%40+PEC+Chandigarh" alt="Typing SVG" />`{=html}
-
-```{=html}
-<p>
-```
-`<a href="https://github.com/Tush2602">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Tush2602-181717?style=for-the-badge&logo=github" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="mailto:YOUR_EMAIL@example.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
-`</a>`{=html}
-```{=html}
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tushar%20Joshi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%7C%20GenAI%20%7C%20Agentic%20Systems&descAlignY=58&descSize=16" />
 </p>
-```
-`<img src="https://komarev.com/ghpvc/?username=Tush2602&style=flat-square&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views"/>`{=html}
-:::
 
-------------------------------------------------------------------------
-
-## `whoami`
-
-I'm an Electrical Engineering undergraduate at **Punjab Engineering
-College (PEC), Chandigarh**, with a minor in **Artificial
-Intelligence**. I enjoy turning ideas into practical machine learning
-systems --- from recommendation engines and predictive models to NLP
-applications and production-oriented ML pipelines.
-
--   🎓 B.Tech in Electrical Engineering · PEC Chandigarh
--   🧠 AI/ML, Data Science, Deep Learning and Recommendation Systems
--   🛠️ Interested in model development, evaluation, deployment and
-    monitoring
--   🏆 **Top 5%** in the Amazon ML Challenge 2026 --- F0.5 score of
-    **0.969** (among 32,000+ teams)
--   🌱 Currently strengthening my foundations in DSA, statistics, deep
-    learning and GenAI
-
-------------------------------------------------------------------------
-
-## `what_i_build`
-
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-🎬 CineMate V2
-```{=html}
-</h3>
-```
-A Netflix-style movie recommendation application built around a
-Two-Tower Neural Collaborative Filtering model, combining user and movie
-signals to generate personalized recommendations.
-`<br/>`{=html}`<br/>`{=html}
-`<a href="https://github.com/Tush2602/CineMate-V2">`{=html}`<img src="https://img.shields.io/badge/Explore-Repository-2F81F7?style=flat-square&logo=github" alt="CineMate V2 repository"/>`{=html}`</a>`{=html}
-`<br/>`{=html}`<sub>`{=html}Python · PyTorch · Recommendation Systems ·
-NLP`</sub>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-⚙️ Production ML Pipeline
-```{=html}
-</h3>
-```
-An end-to-end churn prediction lifecycle with drift monitoring,
-confidence monitoring, safe model promotion, automated retraining and
-Dockerized FastAPI deployment. `<br/>`{=html}`<br/>`{=html}
-`<a href="https://github.com/Tush2602/Production-ML-Pipeline-with-Drift-Monitoring-Auto-Retraining-Scalable-Deployment">`{=html}`<img src="https://img.shields.io/badge/Explore-Repository-2F81F7?style=flat-square&logo=github" alt="Production ML Pipeline repository"/>`{=html}`</a>`{=html}
-`<br/>`{=html}`<sub>`{=html}Python · Scikit-learn · FastAPI · Docker ·
-MLOps`</sub>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-🔤 AkharFormer
-```{=html}
-</h3>
-```
-A Transformer implemented from scratch in PyTorch for English-to-Hindi
-translation, covering core components such as attention, positional
-encoding and the encoder-decoder architecture.
-`<br/>`{=html}`<br/>`{=html}
-`<a href="https://github.com/Tush2602/AkharFormer">`{=html}`<img src="https://img.shields.io/badge/Explore-Repository-2F81F7?style=flat-square&logo=github" alt="AkharFormer repository"/>`{=html}`</a>`{=html}
-`<br/>`{=html}`<sub>`{=html}Python · PyTorch · Transformers ·
-NLP`</sub>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-🤖 AgenticChatbot
-```{=html}
-</h3>
-```
-An agentic chatbot project exploring LLM-powered workflows and
-conversational AI. `<br/>`{=html}`<br/>`{=html}
-`<a href="https://github.com/Tush2602/AgenticChatbot">`{=html}`<img src="https://img.shields.io/badge/Explore-Repository-2F81F7?style=flat-square&logo=github" alt="AgenticChatbot repository"/>`{=html}`</a>`{=html}
-`<br/>`{=html}`<sub>`{=html}Python · LLMs · LangChain`</sub>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-📝 Blog Generation Agentic AI System
-```{=html}
-</h3>
-```
-An agentic AI project focused on generating blog content through
-coordinated LLM workflows. `<br/>`{=html}`<br/>`{=html}
-`<a href="https://github.com/Tush2602/Blog-Generation-Agentic-AI-System-">`{=html}`<img src="https://img.shields.io/badge/Explore-Repository-2F81F7?style=flat-square&logo=github" alt="Blog Generation repository"/>`{=html}`</a>`{=html}
-`<br/>`{=html}`<sub>`{=html}Python · Generative AI ·
-Agents`</sub>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-```{=html}
-<h3>
-```
-📈 VolWatch
-```{=html}
-</h3>
-```
-A Python project exploring volatility-focused data and analysis.
-`<br/>`{=html}`<br/>`{=html}
-`<a href="https://github.com/Tush2602/VolWatch">`{=html}`<img src="https://img.shields.io/badge/Explore-Repository-2F81F7?style=flat-square&logo=github" alt="VolWatch repository"/>`{=html}`</a>`{=html}
-`<br/>`{=html}`<sub>`{=html}Python · Data Analysis`</sub>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
-> Project descriptions are intentionally concise. Keep each one aligned
-> with what the repository currently implements, and update the links if
-> a repository is renamed.
-
-------------------------------------------------------------------------
-
-## `tech_stack`
-
-### Languages
-
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,cpp,sql,r" alt="Python, C++, SQL and R"/>`{=html}
-```{=html}
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+ship+to+production;Transformers+from+scratch+in+PyTorch;Two-Tower+recommenders+%2B+NLP;Agentic+AI+with+LLMs" alt="Typing SVG" />
+  </a>
 </p>
-```
-### Machine Learning, Deep Learning & Data
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow and scikit-learn"/>`{=html}
-`<br/>`{=html}
-`<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>`{=html}
-`<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>`{=html}
-`<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost"/>`{=html}
-`<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM"/>`{=html}
-`<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" alt="CatBoost"/>`{=html}
-```{=html}
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Tush2602&style=for-the-badge&color=0e75b6&label=Profile+Views" />
 </p>
-```
-### NLP, GenAI & MLOps
 
-```{=html}
+---
+
+### 👋 About Me
+
+```python
+class TusharJoshi:
+    role       = "ML / GenAI Engineer"
+    focus      = ["Recommender Systems", "NLP & Transformers", "MLOps", "Agentic AI"]
+    building   = "VolWatch"            # currently working on
+    practicing = "DSA on NeetCode"
+    open_to    = ["AI/ML Engineer roles", "Internships", "Open-source collabs"]
+```
+
+- 🔭 I like taking models **beyond the notebook** — APIs, drift monitoring, retraining, Docker.
+- 🧠 Implemented the Transformer (*Attention Is All You Need*) **from scratch** for English → Hindi.
+- 🤖 Building **multi-agent LLM systems** for content generation and conversational AI.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🎬 **[CineMate-V2](https://github.com/Tush2602/CineMate-V2)** | Netflix-style movie recommender using a hybrid **Two-Tower + NLP** model on user behaviour and movie metadata | PyTorch · NLP · Web app |
+| ⚙️ **[Production ML Pipeline](https://github.com/Tush2602/Production-ML-Pipeline-with-Drift-Monitoring-Auto-Retraining-Scalable-Deployment)** | End-to-end churn prediction lifecycle with **drift detection**, confidence monitoring, safe model promotion and **auto-retraining** | FastAPI · Docker · Scikit-learn |
+| 🔤 **[AkharFormer](https://github.com/Tush2602/AkharFormer)** | Transformer built **from scratch** for English → Hindi translation — custom multi-head attention, positional encoding, training pipeline | PyTorch |
+| 📝 **[Blog Generation Agentic AI](https://github.com/Tush2602/Blog-Generation-Agentic-AI-System-)** | Multi-agent system that researches, drafts and refines blog posts | LangGraph / LLMs · Python |
+| 💬 **[AgenticChatbot](https://github.com/Tush2602/AgenticChatbot)** | Tool-using conversational agent | LLMs · Python |
+| 📈 **[VolWatch](https://github.com/Tush2602/VolWatch)** | 🚧 In progress | Python |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,redis,mongodb,sqlite" alt="FastAPI, Flask, Docker, Git, GitHub, Redis, MongoDB and SQLite"/>`{=html}
-`<br/>`{=html}
-`<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>`{=html}
-`<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square" alt="FAISS"/>`{=html}
-`<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-```
 
-------------------------------------------------------------------------
+**ML / DL**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
 
-## `github_stats`
+**GenAI / Agents**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
-::: {align="center"}
-`<a href="https://github.com/Tush2602">`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tush2602&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7" alt="Tushar's GitHub stats"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/Tush2602">`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tush2602&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7" alt="Top languages"/>`{=html}
-`</a>`{=html} `<br/>`{=html}
-`<img src="https://streak-stats.demolab.com?user=Tush2602&hide_border=true&theme=transparent&ring=2F81F7&fire=F59E0B&currStreakLabel=2F81F7" alt="GitHub streak"/>`{=html}
-:::
+**MLOps / Deployment**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-------------------------------------------------------------------------
+> ✂️ Delete any badge for a tool you haven't actually used in a project.
 
-## `currently_learning`
+---
 
--   Advanced machine learning and model evaluation
--   Deep learning architectures and Transformer internals
--   Probability, statistics and their applications in ML
--   Data structures and algorithms
+### 📊 GitHub Stats
 
-------------------------------------------------------------------------
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tush2602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tush2602&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
-::: {align="center"}
-### Building, learning, and improving --- one commit at a time.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tush2602&theme=tokyonight&hide_border=true" />
+</p>
 
-**If you're working on something interesting in AI/ML, let's connect.**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tush2602&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
 
-`<a href="https://github.com/Tush2602?tab=repositories">`{=html}Explore
-my repositories →`</a>`{=html}
-:::
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+</p>
